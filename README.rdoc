@@ -1,0 +1,3 @@
+This is a flying start to a rails 3.2.3 project which will use devise and omniauth for authentication. 
+
+It includes twitter, facebook and google login with omniauth.
